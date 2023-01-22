@@ -4,5 +4,6 @@
 - 🌱 I’m currently expanding knowledge about cyber security and working with various front-end framworks.
 - 📫 How to reach me:
    - 🏡	[React Portfolio](https://react.paullukic.com/)
-   - 🛖 [Svelte.js Portfolio](https://paullukic.com)
+   - 🛖 [Svelte.js Portfolio](https://paullukic.com/gui/win98.html)
+   - 💻️ [Terminal Portfolio](https://paullukic.com)
 	
