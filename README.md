@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @paullukic
-- 👀 Passionate in hacking, developing, designing web applications.
-- 💼 Working at [Collabwriting](https://collabwriting.com) as Full Stack Developer.
-- 🌱 I’m currently expanding knowledge about cyber security and red teaming, check my [TryHackMe Profile](https://tryhackme.com/p/paxhax).
-- 📫 How to reach me:
-   - 🏡 [React Portfolio](https://react.paullukic.com/)
-   - 🛖 [Svelte.js Portfolio](https://paullukic.com/gui/win98.html)
-   - 💻️ [Terminal Portfolio](https://paullukic.com)
-   - 🐦️ [Twitter](https://twitter.com/x_p4x)
+- 👋 Hi, I’m @paullukic  
+- 👀 Passionate about hacking, developing, and designing full-stack web applications with clean, scalable architecture.  
+- 💼 Most recently Full Stack Developer at [Collabwriting](https://collabwriting.com), leading core product development.  
+- 🚀 Currently open to new opportunities as a **Senior Full Stack Developer** or **Team Lead** — let’s connect!  
+- 🛠️ Tech I love: React, Svelte, Java, Spring Boot, Firebase, Tailwind, and building Chrome extensions & custom UIs.  
+- 🧠 Constantly learning about cybersecurity and red teaming — check my [TryHackMe Profile](https://tryhackme.com/p/paxhax).  
+- 📫 Reach me via:  
+   - 🕶️ [Cyberpunk Portfolio (Latest)](https://cyberpunk.paullukic.com)  
+   - 🏡 [React Portfolio](https://react.paullukic.com/)  
+   - 🛖 [Svelte/Win98 Portfolio](https://paullukic.com/gui/win98.html)  
+   - 💻️ [Terminal Portfolio](https://paullukic.com)  
+   - 🐦️ [Twitter](https://twitter.com/x_p4x)  
    - 📘 [LinkedIn](https://www.linkedin.com/in/paul-lukic/)
-
-
-
